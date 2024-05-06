@@ -9,4 +9,5 @@ def add_revert3():
     print('add revert3, branch panyang')
 
 
-# add revert file 4, branch:panyang
+def one_bug():
+    a = 1 / 0
