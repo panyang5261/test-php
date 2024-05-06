@@ -16,5 +16,6 @@ def one_bug():
 
 #the second bug
 def two_bug():
+    #fixed:
     if 0:
-        a = 1 / 0
+        a = 1 / 1
