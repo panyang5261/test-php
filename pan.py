@@ -19,3 +19,9 @@ def two_bug():
     #fixed:
     if 0:
         a = 1 / 1
+
+
+#add git rebase
+def three_rebase():
+    print('three rebase', 'panyang')
+
