@@ -12,9 +12,3 @@ def add_revert3():
 def one_bug():
     if 0:
         a = 1 / 0
-
-
-#the second bug
-def two_bug():
-    if 0:
-        a = 1 / 0
