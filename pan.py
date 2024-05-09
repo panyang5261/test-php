@@ -25,3 +25,7 @@ def two_bug():
 def three_rebase():
     print('three rebase', 'panyang')
 
+
+# 2024-0509, rebase test
+def add_rebase():
+    pass
