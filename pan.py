@@ -42,3 +42,8 @@ def add_rebase3333():
 def add_rebase4444():
     print('4444')
     pass
+
+# 2024-0509, rebase test 5555
+def add_rebase5555():
+    print('5555')
+    pass
